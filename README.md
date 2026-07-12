@@ -14,6 +14,13 @@ I personally completed the main practical work of this project, including hardwa
 
 A few individuals provided occasional assistance during component procurement, handling, troubleshooting, and the initial preparation of the project documentation.
 
+## Project Demonstration Video
+
+The following one-minute video demonstrates the completed portable monitor powered on and displaying content while I navigate and scroll through my YouTube channel.
+
+▶️ [Watch the Portable Monitor Demonstration Video on LinkedIn](https://www.linkedin.com/posts/mosheur-eee_portablemonitor-embeddedsystems-eee-ugcPost-7482128692635193344-D3iB/)
+
+## Personal Contribution
 ## Personal Contribution
 
 My main contributions to this project include:
