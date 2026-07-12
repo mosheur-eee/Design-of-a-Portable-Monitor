@@ -5,8 +5,7 @@ A low-cost portable monitor prototype developed as an open-ended project for the
 ![Portable Monitor Prototype](images/prototype-front.jpg)
 
 ## Project Overview
-
-This project presents the design, development, assembly, and testing of a portable monitor prototype. The system uses an LCD panel, a compatible display driver board, a power adapter, OSD control buttons, and a custom PVC-board enclosure.
+This portable monitor was developed as a team project. This report focuses on my individual contributions, including component selection, cost analysis, enclosure development, assembly support, testing, and documentation.
 
 ## Objectives
 
@@ -68,11 +67,3 @@ A laptop or another source device sends a video signal to the display driver boa
 
 ## Repository Structure
 
-```text
-Design-of-a-Portable-Monitor/
-├── README.md
-├── LICENSE
-├── docs/
-├── images/
-├── design/
-└── data/
