@@ -1,0 +1,8 @@
+,,,,,
+,,,,,
+,Test ID,Test Name,Expected Result,Actual Result,Status
+,T01,Power-on Test,Monitor powers on successfully,Monitor powered on successfully,PASS
+,T02,Display Output Test,Video signal appears on LCD,Display output was shown correctly,PASS
+,T03,OSD Button Test,Control buttons respond correctly,Buttons operated correctly,PASS
+,T04,Input Connection Test,Input signal is received properly,Input signal was received,PASS
+,T05,Enclosure Stability Test,Components remain securely mounted,Enclosure remained stable,PASS
