@@ -62,7 +62,7 @@ A laptop or another source device sends a video signal to the display driver boa
 
 ## Documentation
 
-- [Experiment 9 Portable Monitor Report](docs/Experiment-09-Portable-Monitor-Report.pdf)
+- [Portable Monitor Report](docs/DESIGN AND DEVELOPMENT OF APORTABLE MONITOR.pdf)
 - [Bill of Materials](data/bill-of-materials.csv)
 - [Test Results](data/test-results.csv)
 
