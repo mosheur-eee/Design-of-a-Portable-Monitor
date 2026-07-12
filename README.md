@@ -339,24 +339,4 @@ The prototype:
 - [View the Bill of Materials](data/bill-of-materials.csv)
 - [View the Test Results](data/test-results.csv)
 
-## Repository Structure
 
-```text
-Design-of-a-Portable-Monitor/
-├── README.md
-├── LICENSE
-├── docs/
-│   └── DESIGN-AND-DEVELOPMENT-OF-APORTABLE-MONITOR.pdf
-├── images/
-│   ├── prototype-front.jpg
-│   ├── prototype-back.jpg
-│   ├── prototype-side.jpg
-│   ├── final-output-1.jpg
-│   └── final-output-2.jpg
-├── design/
-│   ├── system-block-diagram.png
-│   ├── internal-connection-1.jpg
-│   └── internal-connection-2.jpg
-└── data/
-    ├── bill-of-materials.csv
-    └── test-results.csv
