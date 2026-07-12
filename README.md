@@ -21,7 +21,6 @@ The following one-minute video demonstrates the completed portable monitor power
 ▶️ [Watch the Portable Monitor Demonstration Video on LinkedIn](https://www.linkedin.com/posts/mosheur-eee_portablemonitor-embeddedsystems-eee-ugcPost-7482128692635193344-D3iB/)
 
 ## Personal Contribution
-## Personal Contribution
 
 My main contributions to this project include:
 
