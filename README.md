@@ -57,7 +57,8 @@ A laptop or another source device sends a video signal to the display driver boa
 
 ### Final Output
 
-![Final Output](images/final-output.jpg)
+![Final Output](images/final-output-1.jpg)    
+![Final Output](images/final-output-2.jpg)
 
 ## Documentation
 
