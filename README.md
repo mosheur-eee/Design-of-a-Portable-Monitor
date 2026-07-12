@@ -53,7 +53,8 @@ A laptop or another source device sends a video signal to the display driver boa
 
 ### Internal Connection
 
-![Internal Connection](images/internal-connection.jpg)
+![Internal Connection](images/internal-connection-1.jpg)    
+![Internal Connection](images/internal-connection-2.jpg)
 
 ### Final Output
 
